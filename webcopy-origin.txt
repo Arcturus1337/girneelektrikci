@@ -1,0 +1,608 @@
+Uri: https://girnelastikci.com/
+File Name: C:\Downloaded Web Sites\girnelastikci.com\index.htm
+Content Type: text/html
+
+Uri: https://girnelastikci.com/comments/feed/
+File Name: C:\Downloaded Web Sites\girnelastikci.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://girnelastikci.com/feed/
+File Name: C:\Downloaded Web Sites\girnelastikci.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://girnelastikci.com/wp-content/fonts/78aa6b60909d3612bacd5f67e92ffc20.css
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\78aa6b60909d3612bacd5f67e92ffc20.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLucHtA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiGyp8kv8JHgFVrJJLucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\poppins\pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOkCnqEu92Fr1Mu51xIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/sen/6xKjdSxYI9_3kvWNEmo.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\sen\6xKjdSxYI9_3kvWNEmo.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/fonts/sen/6xKjdSxYI9_3nPWN.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\fonts\sen\6xKjdSxYI9_3nPWN.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/plugins/call-now-button/resources/style/modern.css?ver=1.4.11
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\plugins\call-now-button\resources\style\modern.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-content/plugins/wp-whatsapp-chat/build/frontend/css/style.css?ver=7.4.6
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\plugins\wp-whatsapp-chat\build\frontend\css\style.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-content/plugins/wp-whatsapp-chat/build/frontend/js/index.js?ver=050b65b6ccb82df6ae3c
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\plugins\wp-whatsapp-chat\build\frontend\js\index.js
+Content Type: application/javascript
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/animate.css?ver=1727943805
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\animate.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/css/all.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\css\all.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/css/theme-style.css?ver=20241003-82325
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\css\theme-style.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/icon-clock.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\icon-clock.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/icon-envelope.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\icon-envelope.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/icon-location.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\icon-location.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/icon-phone.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\icon-phone.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/service-1.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\service-1.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/service-2.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\service-2.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/service-3.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\service-3.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/service-4.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\service-4.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/service-5.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\service-5.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/images/service-6.png
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\images\service-6.png
+Content Type: image/png
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/js/animate.min.js?ver=20241003-82325
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\js\animate.min.js
+Content Type: application/javascript
+
+Uri: https://girnelastikci.com/wp-content/themes/gutenify-biz/style.css?ver=20241003-82325
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\themes\gutenify-biz\style.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/images-1-300x200.jpeg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\images-1-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/images-1.jpeg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\images-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0002-1024x478.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0002-1024x478.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0002-1536x717.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0002-1536x717.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0002-300x140.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0002-300x140.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0002-768x359.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0002-768x359.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0002.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0002.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0004-1024x478.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0004-1024x478.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0004-1536x717.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0004-1536x717.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0004-300x140.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0004-300x140.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0004-768x359.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0004-768x359.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG-20240927-WA0004.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG-20240927-WA0004.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG_20241003_205601-1024x697.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG_20241003_205601-1024x697.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG_20241003_205601-300x204.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG_20241003_205601-300x204.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG_20241003_205601-768x523.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG_20241003_205601-768x523.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-content/uploads/2024/10/IMG_20241003_205601.jpg
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-content\uploads\2024\10\IMG_20241003_205601.jpg
+Content Type: image/jpeg
+
+Uri: https://girnelastikci.com/wp-includes/blocks/cover/style.min.css?ver=6.8.2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\blocks\cover\style.min.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-includes/blocks/image/style.min.css?ver=6.8.2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\blocks\image\style.min.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-includes/blocks/navigation/style.min.css?ver=6.8.2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\blocks\navigation\style.min.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-includes/blocks/social-links/style.min.css?ver=6.8.2
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\blocks\social-links\style.min.css
+Content Type: text/css
+
+Uri: https://girnelastikci.com/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\js\dist\script-modules\block-library\navigation\view.min.js
+Content Type: application/javascript
+
+Uri: https://girnelastikci.com/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\js\dist\script-modules\interactivity\index.min.js
+Content Type: application/javascript
+
+Uri: https://girnelastikci.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://girnelastikci.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://girnelastikci.com/wp-json/
+File Name: C:\Downloaded Web Sites\girnelastikci.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://girnelastikci.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\girnelastikci.com\xmlrpc.php
+Content Type: text/xml
+
